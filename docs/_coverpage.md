@@ -1,4 +1,4 @@
-![logo](_media/m17glow.png ':size=25%')
+![logo](_media/wigglesis.png ':size=15%')
 
 # OpenHT <small>0.1beta</small>
 
